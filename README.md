@@ -1,6 +1,5 @@
 🌤️ Sky Chatbot — Gemini API Powered Frontend Chatbot Sky Chatbot is a lightweight, responsive chatbot built entirely with frontend technologies. It uses Google's Gemini API to provide intelligent, human-like responses — all without needing a custom backend server.
-
-image
+![Screenshot 2025-05-17 120620](https://github.com/user-attachments/assets/d5c34a21-7cb3-41fa-97eb-cc8b0b9993c4)
 
 💡 Highlights
 
